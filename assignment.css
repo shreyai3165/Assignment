@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:black;
+  }
+  
+  .container {
+    width: 34.8px;
+    height: 34.8px;
+    border: 2px solid #243596;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(17, 17, 178, 0.808);
+    color: white;
+  }
+  
+  .content {
+    font-family:arial;
+  }
